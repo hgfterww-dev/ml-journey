@@ -7,29 +7,7 @@
 ## Задачи
 
 - [x] Завести GitHub, создать репозиторий
-- [ ] Поставить VS Code и Jupyter
-- [ ] 3Blue1Brown «Essence of Linear Algebra», видео 1–5 + конспект → [`math/linear-algebra/`](../math/linear-algebra)
-- [ ] Python: функции, классы, генераторы, comprehension → [`python/basics/`](../python/basics)
-- [ ] Codeforces: зарегистрироваться, решить первые задачи
-
-## Что понял
-
-<!-- 3–5 пунктов своими словами в конце недели -->
-
--
-
-## Что не получилось
-
-<!-- честно: что не успел и почему -->
-
--
-
-## Часы
-
-| Математика | Алгоритмы | Python / ML | Всего |
-|---|---|---|---|
-| | | | |
-
-## На следующую неделю
-
--
+- [x] Поставить VS Code и Jupyter
+- [x] 3Blue1Brown «Essence of Linear Algebra», видео 1–5 + конспект → [`math/linear-algebra/`](../math/linear-algebra)
+- [x] Python: функции, классы, генераторы, comprehension → [`python/basics/`](../python/basics)
+- [x] Codeforces: зарегистрироваться, решить первые задачи
